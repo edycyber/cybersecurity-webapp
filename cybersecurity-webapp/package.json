@@ -41,10 +41,4 @@
     "gh-pages": "^6.1.1"
   }
   }
-  "Homepage": "https://edycyber.github.io/cybersecurity-webapp/",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    ...
-  }
-}
+  
