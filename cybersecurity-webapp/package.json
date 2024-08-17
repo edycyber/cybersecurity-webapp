@@ -40,8 +40,8 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
-}
-  "homepage": "https://edycyber.github.io/cybersecurity-webapp/",
+  }
+  "Homepage": "https://edycyber.github.io/cybersecurity-webapp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
